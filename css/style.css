@@ -1,0 +1,23 @@
+#container {
+    width: 600px;
+    margin: 40px auto;
+    font-size: 1.2rem;
+    padding: 50px;
+    border: 2px solid #ccc;
+}
+
+h2, h3 {
+    text-decoration: underline;
+}
+
+button {
+    width: 50%;
+}
+
+#erro {
+    color: red;
+}
+
+#erro, #resposta {
+    display: none;
+}
